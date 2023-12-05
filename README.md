@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Thanaphat</h1>
-<h3 align="center">I'm Student form RMUTI</h3>
+<h1 align>Hi , I'm Thanaphat</h1>
+<h3 align>I'm Student form RMUTI</h3>
 
-<p align="center">
+<p align>
   <img src="https://i.pinimg.com/564x/cf/b7/a7/cfb7a773d6331e6a1a7db6dfb42154d5.jpg" />
 </p>
 
